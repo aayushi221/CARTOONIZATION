@@ -5,6 +5,8 @@ This is a program to cartoonize an image without using complex procedures such a
 
 In order to achive such basic cartoon effect, we don't really need a powerful rendring software.
 We can easily use bilateral filter and some edge detection.
+
+
 1.Bilateral filter- Reduces the colour palette
 2.Edge detection- Allows production of bold silhouettes
 
