@@ -8,11 +8,17 @@ We can easily use bilateral filter and some edge detection.
 
 
 1.Bilateral filter- Reduces the colour palette
+
+
 2.Edge detection- Allows production of bold silhouettes
 
 This what is happening in this small project:
+
+
 STEP 1: Apply bilateral filter to reduce the color palette of the image.
+
 STEP 2: Convert the original color image to grayscale
+
 STEP 3: Apply median blur to reduce image noise in the resultant grayscale           image.
 STEP 4: Create an edge mask from the ggrayscale image using adaptive                 thresholding.
 STEP 5: Combine the color image from setpe 1 with the edge mask from step 4.
