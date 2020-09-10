@@ -20,12 +20,23 @@ STEP 1: Apply bilateral filter to reduce the color palette of the image.
 STEP 2: Convert the original color image to grayscale
 
 STEP 3: Apply median blur to reduce image noise in the resultant grayscale           image.
+
 STEP 4: Create an edge mask from the ggrayscale image using adaptive                 thresholding.
+
 STEP 5: Combine the color image from setpe 1 with the edge mask from step 4.
 
+
 Easy peasy!
+
+
 Pro tip(jk): Use an image with higher contrast to get better results. :)
 
 
+
+
+
+
 Last but not the least,
+
+
 I would like to thank MACHINE LEARNING INDIA for such amazing small tutorials.
