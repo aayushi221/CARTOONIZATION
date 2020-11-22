@@ -1,7 +1,7 @@
 # CARTOONIZATION
 Hi everyone!
 
-This is a program to cartoonize an image without using complex procedures such as deep learning/ ML. We are going to use simple Open CV using pythin and numpy.
+This is a program to cartoonize an image without using complex procedures such as deep learning/ ML. We are going to use simple Open CV using python and numpy.
 
 In order to achive such basic cartoon effect, we don't really need a powerful rendring software.
 We can easily use bilateral filter and some edge detection.
