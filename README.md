@@ -23,7 +23,7 @@ STEP 3: Apply median blur to reduce image noise in the resultant grayscale      
 
 STEP 4: Create an edge mask from the grayscale image using adaptive                 thresholding.
 
-STEP 5: Combine the color image from setpe 1 with the edge mask from step 4.
+STEP 5: Combine the color image from step 1 with the edge mask from step 4.
 
 
 Easy peasy!
